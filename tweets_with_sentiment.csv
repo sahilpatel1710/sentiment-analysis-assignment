@@ -1,0 +1,6 @@
+Date,Tweet,Sentiment,Polarity
+2024-01-01,I love how clean the air feels today!,Positive,0.4791666666666667
+2024-01-02,Climate change is destroying our planet.,Negative,-0.2
+2024-01-03,"We need more climate action, this isn't working.",Positive,0.3
+2024-01-04,"Today’s weather is weird, could be global warming?",Negative,-0.25
+2024-01-05,It’s a beautiful sunny day – loving this weather!,Positive,0.8
